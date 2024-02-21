@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 
+.DS_Store
+
 # Log file
 *.log
 
@@ -22,3 +24,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/Restoran_auth/.gradle/
+/Restoran_auth/.idea/
+/Restoran_auth/build/
+/Restoran_auth/gradle/
+/.idea/
+/Restoran_auth/HELP.md
